@@ -35,3 +35,13 @@ crtsh example.com
 crtsh example.com -o subs.txt
 echo "example.com" | crtsh -o subs.txt
 ```
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+👨‍💻 Author
+
+***Shaikh Khizer***<br>
+Computer Science Student | Penetration Tester
