@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 )
-
+// ## this is done my me max
 const (
 	maxRetries  = 5
 	httpTimeout = 120 * time.Second
